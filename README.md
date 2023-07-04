@@ -81,17 +81,17 @@ https://www.notion.so/e4ad059c53e849d2a713452ea5f8ea59
 ---
 
 <aside>
-<img src="https://blog.kakaocdn.net/dn/bTslSR/btqS1WFdn35/T3AOCIr0VjKJ9kPiXneDU1/img.png" alt="https://blog.kakaocdn.net/dn/bTslSR/btqS1WFdn35/T3AOCIr0VjKJ9kPiXneDU1/img.png" width="40px" /> **C**
+**C**
 
 </aside>
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/433b4146-2213-4ec9-a945-9fec8057e6bd/free-icon-c-sharp-6132221.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/433b4146-2213-4ec9-a945-9fec8057e6bd/free-icon-c-sharp-6132221.png" width="40px" /> **C#**
+**C#**
 
 </aside>
 
 <aside>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHLN0RrPTmNUSMhl6MTeX0p_uIIj6Qzoxok9gjmzjELFRCeJaN34K8nOSaG56rrrw-evQ&usqp=CAU" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHLN0RrPTmNUSMhl6MTeX0p_uIIj6Qzoxok9gjmzjELFRCeJaN34K8nOSaG56rrrw-evQ&usqp=CAU" width="40px" /> **Python**
+**Python**
 
 </aside>
 
