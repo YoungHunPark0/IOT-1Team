@@ -88,7 +88,7 @@ https://www.notion.so/e4ad059c53e849d2a713452ea5f8ea59
 </aside>
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/433b4146-2213-4ec9-a945-9fec8057e6bd/free-icon-c-sharp-6132221.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/433b4146-2213-4ec9-a945-9fec8057e6bd/free-icon-c-sharp-6132221.png" width="40px" /> **C#**
+<img src="https://img.shields.io/badge/Cshap-007396?style=for-the-badge&logo=Cshap&logoColor=white" width="40px" /> **C#**
 
 </aside>
 
