@@ -81,17 +81,17 @@ https://www.notion.so/e4ad059c53e849d2a713452ea5f8ea59
 ---
 
 <aside>
-**C**
+C
 
 </aside>
 
 <aside>
-**C#**
+C#
 
 </aside>
 
 <aside>
-**Python**
+Python
 
 </aside>
 
@@ -100,17 +100,17 @@ https://www.notion.so/e4ad059c53e849d2a713452ea5f8ea59
 ---
 
 <aside>
-**Unity**
+Unity
 
 </aside>
 
 <aside>
-**Git**
+Git
 
 </aside>
 
 <aside>
-**MySQL**
+MySQL
 
 </aside>
 
@@ -119,27 +119,27 @@ https://www.notion.so/e4ad059c53e849d2a713452ea5f8ea59
 ---
 
 <aside>
-**GitHub**
+GitHub
 
 </aside>
 
 <aside>
-**Notion**
+Notion
 
 </aside>
 
 <aside>
-**Kakao Talk**
+Kakao Talk
 
 </aside>
 
 <aside>
-**Figma**
+Figma
 
 </aside>
 
 <aside>
-**Google Drive**
+Google Drive
 
 </aside>
 
