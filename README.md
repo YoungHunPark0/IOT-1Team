@@ -100,17 +100,17 @@ https://www.notion.so/e4ad059c53e849d2a713452ea5f8ea59
 ---
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18d2b922-56aa-4ae2-9e17-f684eeb4d67a/unity.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18d2b922-56aa-4ae2-9e17-f684eeb4d67a/unity.png" width="40px" /> **Unity**
+**Unity**
 
 </aside>
 
 <aside>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px" /> **Git**
+**Git**
 
 </aside>
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6760f966-dbf4-429b-b53a-f0890670927c/1012821_code_development_logo_mysql_icon.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6760f966-dbf4-429b-b53a-f0890670927c/1012821_code_development_logo_mysql_icon.png" width="40px" /> **MySQL**
+**MySQL**
 
 </aside>
 
@@ -119,27 +119,27 @@ https://www.notion.so/e4ad059c53e849d2a713452ea5f8ea59
 ---
 
 <aside>
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40px" /> **GitHub**
+**GitHub**
 
 </aside>
 
 <aside>
-<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/notion_logo_icon_145025.png" alt="https://cdn.icon-icons.com/icons2/2389/PNG/512/notion_logo_icon_145025.png" width="40px" /> **Notion**
+**Notion**
 
 </aside>
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a097678e-4370-4032-96ae-52c16c50dee0/9796002_kakao_talk_social_media_icon.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a097678e-4370-4032-96ae-52c16c50dee0/9796002_kakao_talk_social_media_icon.png" width="40px" /> **Kakao Talk**
+**Kakao Talk**
 
 </aside>
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59a19c80-bbd3-4c27-aeb2-76af6f7eb324/7564187_figma_logo_brand_icon.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59a19c80-bbd3-4c27-aeb2-76af6f7eb324/7564187_figma_logo_brand_icon.png" width="40px" /> **Figma**
+**Figma**
 
 </aside>
 
 <aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e282d863-9acd-4464-bc43-c6084e4940ca/317713_drive_google_google_drive_icon.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e282d863-9acd-4464-bc43-c6084e4940ca/317713_drive_google_google_drive_icon.png" width="40px" /> **Google Drive**
+**Google Drive**
 
 </aside>
 
